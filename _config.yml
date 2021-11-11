@@ -1,8 +1,8 @@
 # Site settings
-title: 猫柳的博客 # 你的博客名字，可以定义修订
+title: 收集沙子的旅人 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "多谢你的阅读"  # 一句话描述你的博客
+description: "我路过，你见过"  # 一句话描述你的博客
 baseurl: ""
 url: "http://blog.cjdmove.cn"  # 此处填写你的博客地址 
 
@@ -10,7 +10,7 @@ url: "http://blog.cjdmove.cn"  # 此处填写你的博客地址
 owner: 
   name: "猫柳（陈锦丹）" # 填写作者信息：名字
   email: margaretchen007@gmail.com@gmail.com # 填写作者信息：邮箱
-  bio: "今天天气晴朗" # 填写作者信息：博客描述
+  bio: "流水账、感受与思考" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
