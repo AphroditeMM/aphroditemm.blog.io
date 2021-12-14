@@ -1,5 +1,6 @@
 {
     "": [
+        "test1.md", 
         "test.md", 
         "\u300a\u4eba\u751f\u8d44\u672c\u8bfe\u300b\u95ee\u7b54.md", 
         "2021-12-08-3.md", 
@@ -7,17 +8,19 @@
         "2015-03-02-how-to-write.md"
     ], 
     "__positions": {
-        "test.md": 1, 
-        "2015-03-02-how-to-write.md": 5, 
-        "\u300a\u4eba\u751f\u8d44\u672c\u8bfe\u300b\u95ee\u7b54.md": 2, 
-        "2021-12-08-3.md": 3, 
-        "2021-12-08-2.md": 4
+        "2015-03-02-how-to-write.md": 6, 
+        "test1.md": 1, 
+        "test.md": 2, 
+        "2021-12-08-2.md": 5, 
+        "2021-12-08-3.md": 4, 
+        "\u300a\u4eba\u751f\u8d44\u672c\u8bfe\u300b\u95ee\u7b54.md": 3
     }, 
     "__raw_positions": {
-        "test.md": 1, 
-        "2015-03-02-how-to-write.md": 5, 
-        "\u300a\u4eba\u751f\u8d44\u672c\u8bfe\u300b\u95ee\u7b54.md": 2, 
-        "2021-12-08-3.md": 3, 
-        "2021-12-08-2.md": 4
+        "2015-03-02-how-to-write.md": 6, 
+        "test1.md": 1, 
+        "test.md": 2, 
+        "2021-12-08-2.md": 5, 
+        "2021-12-08-3.md": 4, 
+        "\u300a\u4eba\u751f\u8d44\u672c\u8bfe\u300b\u95ee\u7b54.md": 3
     }
 }
